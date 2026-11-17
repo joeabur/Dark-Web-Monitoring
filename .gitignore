@@ -1,0 +1,6 @@
+.env
+darkweb-monitor.env
+darkweb_seen.json
+.darkweb_seen.json.lock
+*.log
+__pycache__/
